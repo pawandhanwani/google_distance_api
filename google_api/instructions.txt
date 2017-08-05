@@ -1,0 +1,15 @@
+For using this file you need to have ruby on rails (command prompt)installed
+
+
+How to use this
+1.Save the folder in your default drive (C: drive)
+2.Go to your ruby command prompt
+3.Following are command prompt commands
+	a. cd/.
+	b. cd google_api
+	c. ruby gpaia.rb
+4.It will ask you start and end location and tell you
+  distance between those cities and duartion to travel
+
+
+5.You can also refer screen-shot provided.
