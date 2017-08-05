@@ -13,3 +13,5 @@ How to use this
 
 
 5.You can also refer screen-shot provided.
+
+NOTE-Google distance API's are free for educational purposes while for business and startups it is highly paid.
